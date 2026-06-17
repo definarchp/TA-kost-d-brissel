@@ -1,0 +1,5 @@
+git config --global --list
+
+git config --global user.name "definarchp"
+git config --global user.email definarchp@gmail.com
+
